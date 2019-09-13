@@ -1,2 +1,5 @@
 # Cellular-Automata
-An efficient method of lighting up LEDs based on the concept of Cellular Automata transition
+
+“It is perhaps a little humbling to discover that we as humans are in effect computationally no more capable than cellular automata with very simple rules. But the Principle of Computational Equivalence also implies that the same is ultimately true of our whole universe." 
+
+Cellular automata are discrete, abstract computational systems that have proved useful both as general models of complexity and as more specific representations of non-linear dynamics in a variety of scientific fields. The greatness of Cellular Automata lies is in their displaying of complex emergent behavior, starting from simple atoms following simple local rules. Because of this, it attract a growing number of researchers from the cognitive and natural sciences willing to study pattern formation and complexity in a pure, abstract setting. This paper was presented at the IEEE- Second International Conference on Advances in Electronics, Computers and Communications , 2018. It can be found at https://ieeexplore.ieee.org/document/8479504. 
